@@ -1,9 +1,9 @@
 ## pre criação da issues
 
--[] conferir ortografia
--[] conferir tamanho das imagens
--[] conferir tamanho das fontes
--[] conferir links das social midias
+-[ ] conferir ortografia
+-[ ] conferir tamanho das imagens
+-[ ] conferir tamanho das fontes
+-[ ] conferir links das social midias
 
 ## Descrição
 
