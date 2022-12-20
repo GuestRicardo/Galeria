@@ -1,15 +1,15 @@
-## pre criação da issues
+## pre criação da issues ##
 
 - [ ] conferir ortografia
 - [ ] conferir tamanho das imagens
 - [ ] conferir tamanho das fontes
 - [ ] conferir links das social midias
 
-## Descrição
+## Descrição ##
 
 Essa é uma issues para armazenar todas as duvidas e mudanças necessarias do projeto
 
-## Screenshots
+## Screenshots ##
 
 add fotos das telas
 
